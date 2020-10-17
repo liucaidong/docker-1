@@ -6,7 +6,6 @@
 [![OpenCollective](https://opencollective.com/sous-chefs/sponsors/badge.svg)](#sponsors)
 [![License](https://img.shields.io/badge/License-Apache%202.0-green.svg)](https://opensource.org/licenses/Apache-2.0)
 
-
 The Docker Cookbook provides resources for installing docker as well as building, managing, and running docker containers.
 
 ## Scope
